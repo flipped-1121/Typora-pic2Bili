@@ -1,10 +1,10 @@
 <center><h1>Typora-pic2Bili</h1></center>
 
-回归到了Typora的怀抱，jsd国内的体验感下降，使用哔哩哔哩的图片服务作为~~图床~~。
+回归到了 Typora 的怀抱，jsd国内的体验感下降，使用哔哩哔哩的图片服务作为~~图床~~。
 
 ## 🐍Python编写
 
-python编写，结合Typora的custom command，使用简单的请求完成图片的上传并返回图床链接。
+Python 编写，结合 Typora 的 custom command，使用简单的请求完成图片的上传并返回图床链接。
 
 ## 📑使用方法
 
@@ -23,7 +23,7 @@ python编写，结合Typora的custom command，使用简单的请求完成图片
 
   + Python版本：
 
-    ```she
+    ```shell
     python <pic2Bili.py文件所在位置> <SESSDATA>
     ```
 
