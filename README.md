@@ -4,13 +4,13 @@
 
 ## 🐍Python编写
 
-python编写，结合Typora的costume command，使用简单的请求完成图片的上传并返回图床链接。
+python编写，结合Typora的custom command，使用简单的请求完成图片的上传并返回图床链接。
 
 ## 📑使用方法
 
 下载：
 
-+ [python版](https://github.com/flipped-1121/Typora-pic2Bili/raw/main/pic2Bili.py)
++ [python版](https://github.com/flipped-1121/Typora-pic2Bili/raw/master/pic2Bili.py)
 + [Windows](https://github.com/flipped-1121/Typora-pic2Bili/releases)
 
 使用：
@@ -35,13 +35,13 @@ python编写，结合Typora的costume command，使用简单的请求完成图�
 
   + Windows：
 
-    ```she
+    ```shell
     <pic2Bili.exe文件所在位置> <SESSDATA>
     ```
 
     例如：
 
-    ```she
+    ```shell
     F:\Python\Pic2Bili\pic2Bili.exe gfdsgsdfgsartewrr******
     ```
 
@@ -49,4 +49,4 @@ python编写，结合Typora的costume command，使用简单的请求完成图�
 
   ![image-20220601204306720](https://i0.hdslb.com/bfs/album/9de8de05b31c0a6ab202039f28800c3de9ffe8c4.png)
 
-## ✨Enjoy
+<h1>✨Enjoy</h1>
