@@ -15,7 +15,7 @@ def uploadPic(SESSDATA, picFile):
         files = {
             "file_up": f,
         }
-        res = requests.post(headers=headers, url="http://api.vc.bilibili.com/api/v1/drawImage/upload",
+        res = requests.post(headers=headers, url="https://api.vc.bilibili.com/api/v1/drawImage/upload",
                             data=data, files=files)
     return res
 
